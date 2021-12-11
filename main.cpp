@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void MaxV(int d, float V[d]){
+void MaxV(int d, float V[]){
     float max;
     max=V[0];
     for (int i=0; i<d; i++){
